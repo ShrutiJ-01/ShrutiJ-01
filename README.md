@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shruti_jawale01)
 
 ## Hello There 👋, 
-I'm Shruti Jawale, I'm a pre-final year IT undergrad who is passionate about Flutter and open source. I love exlporing new technologies and building robust solutions for real world problems!
+I'm Shruti Jawale, I'm a pre-final year IT undergrad who is passionate about Flutter and open source. I love exploring new technologies and building robust solutions for real world problems!
 
 - 🔭 I’m currently working on Android and Flutter
 - 🌱 I’m currently learning Python
